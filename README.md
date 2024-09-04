@@ -8,4 +8,6 @@
  2、梅尔频率倒频系数MFCC \
  3、隐性马尔可夫hmm \
  4、离散小波变换DTW \
- 5、矢量量化VQ
+ 5、矢量量化VQ \
+
+ tips：kaldi中RNNLM package由fitvutbr 师生以及Tomas Mikolov共同完成
